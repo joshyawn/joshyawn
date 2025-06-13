@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and I love tackling complex challenges throug
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshyawn/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario (The Great Admin Heist)]([https://github.com/joshyawn/threat-hunting-scenario-tor](https://github.com/joshyawn/Threat-Hunting-Scenario-The-Great-Admin-Heist/blob/main/README.md))**
+- **[Threat Hunting Scenario (The Great Admin Heist)]([[https://github.com/joshyawn/threat-hunting-scenario-tor](https://github.com/joshyawn/Threat-Hunting-Scenario-The-Great-Admin-Heist/blob/main/README.md)](https://github.com/joshyawn/Threat-Hunting-Scenario-The-Great-Admin-Heist/tree/main))**
 
 <hr/>
 
