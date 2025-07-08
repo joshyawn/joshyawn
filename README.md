@@ -31,3 +31,86 @@ I'm passionate about cybersecurity and I love tackling complex challenges throug
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+#!/usr/bin/env python3
+"""
+Generate header.gif – a smooth-scrolling banner for a GitHub README.
+
+▶  Requirements
+    pip install pillow
+"""
+
+from PIL import Image, ImageDraw, ImageFont
+import math
+
+# ──────────────────────────────────────────────────────────────
+# Customize these values
+WIDTH, HEIGHT   = 1200, 160                 # overall GIF size
+BG_COLOR        = "#0d1117"                 # GitHub dark-mode background
+FG_COLOR        = "#ffffff"                 # text color
+TEXT            = "Joshua Yawn  |  Cybersecurity Engineer  "  # pad with spaces!
+FONT_PATH       = "DejaVuSans-Bold.ttf"     # add to repo or use any .ttf
+FONT_SIZE       = 56
+FPS             = 50                        # frames per second
+SCROLL_SPEED    = 2                         # pixels/frame
+# ──────────────────────────────────────────────────────────────
+
+font   = ImageFont.truetype(FONT_PATH, FONT_SIZE)
+text_w = font.getlength(TEXT)               # true pixel width of the string
+frames = []
+total_frames = math.ceil((text_w + WIDTH) / SCROLL_SPEED)
+
+for i in range(total_frames):
+    img = Image.new("RGB", (WIDTH, HEIGHT), BG_COLOR)
+    draw = ImageDraw.Draw(img)
+
+    # Draw TEXT twice, side-by-side, so the loop is seamless
+    x1 = WIDTH - i * SCROLL_SPEED
+    x2 = x1 + text_w
+    y  = (HEIGHT - FONT_SIZE) // 2          # vertically center text
+
+    draw.text((x1, y), TEXT, font=font, fill=FG_COLOR)
+    draw.text((x2, y), TEXT, font=font, fill=FG_COLOR)
+
+    frames.append(img)
+
+# Save as looping GIF
+frames[0].save(
+    "header.gif",
+    save_all=True,
+    append_images=frames[1:],
+    duration=int(1000 / FPS),               # ms per frame
+    loop=0
+)
+
+print("✅  header.gif generated")
+name: Regenerate animated header
+
+on:
+  workflow_dispatch:          # run manually
+  schedule:
+    - cron: '0 0 * * 1'       # every Monday at 00:00 UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Pillow
+        run: pip install pillow
+
+      - name: Generate header.gif
+        run: python generate_header.py
+
+      - name: Commit & push if GIF changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add header.gif
+          git diff --cached --quiet || git commit -m "🔄 Update animated header"
+          git push
