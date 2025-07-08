@@ -31,3 +31,5 @@ I'm passionate about cybersecurity and I love tackling complex challenges throug
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+<html style="height: 100%;"><head><meta name="viewport" content="width=device-width, minimum-scale=0.1"><title>225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif (1920×1080)</title></head><body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1252" height="704"></body></html>
+
