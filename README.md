@@ -1,6 +1,9 @@
 <p align="center">
   <img src="header.svg" alt="Scrolling header" />
 </p>
+<p align="center">
+  <img src="header.svg" alt="Scrolling header" />
+</p>
 <!-- README.md -->
 <p align="center" style="background:#0d1117;margin:0;padding:12px 0;">
   <marquee
