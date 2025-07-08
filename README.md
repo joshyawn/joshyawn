@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/c9b6dca9-cea8-48ae-8c2c-2138181243f7)
-
+![image]([https://github.com/user-attachments/assets/c9b6dca9-cea8-48ae-8c2c-2138181243f7](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
 <a href="https://www.linkedin.com/in/joshua-yawn-3620aa288">Joshua Yawn</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
