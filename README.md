@@ -1,29 +1,6 @@
 <p align="center">
   <img src="header.svg" alt="Scrolling header" />
 </p>
-<p align="center">
-  <img src="header.svg" alt="Scrolling header" />
-</p>
-<!-- README.md -->
-<p align="center" style="background:#0d1117;margin:0;padding:12px 0;">
-  <marquee
-      behavior="scroll"      <!-- continuous ticker -->
-      direction="left"       <!-- move left-to-right? use "right" -->
-      scrollamount="6"       <!-- speed: higher = faster -->
-      scrolldelay="0"        <!-- delay between frames; 0 = smoothest -->
-      loop="infinite"        <!-- how many times to repeat -->
-      style="
-        font-size:28px;
-        font-weight:600;
-        line-height:1;
-        color:#ffffff;        /* light-mode text stays readable too   */
-        width:100%;           /* span full row                        */
-        white-space:nowrap;   /* prevent wrapping                     */
-      ">
-    🚀 Joshua Yawn  |  Cybersecurity Engineer 🚀
-  </marquee>
-</p>
-
 <a href="https://www.linkedin.com/in/joshua-yawn-3620aa288">Joshua Yawn</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
