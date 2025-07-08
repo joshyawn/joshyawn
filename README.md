@@ -1,12 +1,11 @@
-
+<p align="center">
+  <img src="header.gif" alt="Scrolling header" />
+</p>
 <h1 align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
     🚀 Joshua Yawn | Cybersecurity Engineer 🚀
   </marquee>
 </h1>
-<p align="center">
-  <img src="header.gif" alt="Scrolling header" />
-</p>
 
 <a href="https://www.linkedin.com/in/joshua-yawn-3620aa288">Joshua Yawn</a>'s IT and Cybersecurity Project Portfolio 🔐
 
