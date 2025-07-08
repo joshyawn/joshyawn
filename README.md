@@ -32,3 +32,8 @@ I'm passionate about cybersecurity and I love tackling complex challenges throug
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+<h1 align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    🚀 Joshua Yawn | Cybersecurity Engineer 🚀
+  </marquee>
+</h1>
