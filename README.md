@@ -114,3 +114,7 @@ jobs:
           git add header.gif
           git diff --cached --quiet || git commit -m "🔄 Update animated header"
           git push
+          <!-- top of README -->
+<p align="center">
+  <img src="header.gif" alt="Scrolling header" />
+</p>
