@@ -1,6 +1,5 @@
 
-[Joshua Yawn](https://www.linkedin.com/in/joshuayawn)'s IT and Cybersecurity Project Portfolio 🔐
-
+[Joshua Yawn](https://www.linkedin.com/in/joshua-yawn-3620aa288/)'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
