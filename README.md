@@ -1,13 +1,8 @@
 <!-- README.md -->
-
 <!-- Centered animated banner -->
 <p align="center">
   <img src="header.gif" alt="🚀 Joshua Yawn | Cybersecurity Engineer 🚀" />
 </p>
-
-<!-- Optional static heading underneath -->
-<h1 align="center">🚀 Joshua Yawn&nbsp;| Cybersecurity Engineer 🚀</h1>
-
 <a href="https://www.linkedin.com/in/joshua-yawn-3620aa288">Joshua Yawn</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
