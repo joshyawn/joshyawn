@@ -5,7 +5,8 @@ I'm passionate about cybersecurity and I love tackling complex challenges throug
 
 ## ⚠️ Vulnerability Management Projects
 
--  UNDER CONSTRUCTION
+-  <img width="728" height="862" alt="image" src="https://github.com/user-attachments/assets/8d18a450-4734-4892-a2c9-68cf350a79ab" />
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshyawn/threat-hunting-scenario-tor)**
