@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and I love tackling complex challenges throug
 
 ## ⚠️ Vulnerability Management Projects
 
--  <img width="728" height="862" alt="image" src="https://github.com/user-attachments/assets/8d18a450-4734-4892-a2c9-68cf350a79ab" />
+-  <img width="364" height="431" alt="image" src="https://github.com/user-attachments/assets/8d18a450-4734-4892-a2c9-68cf350a79ab" />
 
 ## 🚨 Threat Hunting and Security Operations
 
