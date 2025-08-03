@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and I love tackling complex challenges throug
 
 ## ⚠️ Vulnerability Management Projects
 
-<img width="190" height="155" alt="image" src="https://github.com/user-attachments/assets/7f1fce9e-7e8f-43b7-9d76-14275c864053" />
+- **[Vulnerability Management Program Implementation](https://github.com/joshyawn/Vulnerability-Management-Program)**
 
 ## 🚨 Threat Hunting and Security Operations
 
