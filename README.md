@@ -12,6 +12,7 @@ I'm passionate about cybersecurity and I love tackling complex challenges throug
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshyawn/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (The Credential Stuffing Nightmare)](https://github.com/joshyawn/Threat-Hunting-Scenario-The-Credential-Stuffing-Nightmare/tree/main)**
 - **[Threat Hunting Scenario (Suspicious Web Request)](https://github.com/joshyawn/Suspicious-Web-Request)**
+- **[Threat Hunting Scenario (Impossible Travel Detection)](https://github.com/joshyawn/Potential-Imposible-Travel/tree/main)**
 
 <hr/>
 
