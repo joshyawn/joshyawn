@@ -5,6 +5,7 @@ I'm passionate about cybersecurity and I love tackling complex challenges throug
 
 ## ⚠️Enterprise Home Lab
 - **[Building out the Enterprise Home lab](https://github.com/joshyawn/Building-out-the-home-lab)**
+- **[Proxmox VE Installation and Troubleshooting](https://github.com/joshyawn/Building-out-the-home-lab/blob/main/01-proxmox/README.md)
 
 ## ⚠️ Vulnerability Management Projects
 
