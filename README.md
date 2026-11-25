@@ -3,6 +3,9 @@
 I'm passionate about cybersecurity and I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
+## ⚠️Enterprise Home Lab
+- **[Building out the Enterprise Home lab](https://github.com/joshyawn/Building-out-the-home-lab)**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshyawn/Vulnerability-Management-Program)**
@@ -13,9 +16,6 @@ I'm passionate about cybersecurity and I love tackling complex challenges throug
 - **[Threat Hunting Scenario (The Credential Stuffing Nightmare)](https://github.com/joshyawn/Threat-Hunting-Scenario-The-Credential-Stuffing-Nightmare/tree/main)**
 - **[Threat Hunting Scenario (Suspicious Web Request)](https://github.com/joshyawn/Suspicious-Web-Request)**
 - **[Threat Hunting Scenario (Impossible Travel Detection)](https://github.com/joshyawn/Potential-Imposible-Travel/tree/main)**
-
-## ⚠️Enterprise Home 
-- **[Building out the Enterprise Home lab](https://github.com/joshyawn/Building-out-the-home-lab)**
 
 <hr/>
 
