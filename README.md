@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and I love tackling complex challenges throug
 - **[Threat Hunting Scenario (Impossible Travel Detection)](https://github.com/joshyawn/Potential-Imposible-Travel/tree/main)**
 
 ## ⚠️Enterprise Home 
--**[Building out the Enterprise Home lab](https://github.com/joshyawn/Building-out-the-home-lab)**
+- **[Building out the Enterprise Home lab](https://github.com/joshyawn/Building-out-the-home-lab)**
 
 <hr/>
 
